@@ -66,6 +66,7 @@
                     'ORACLE_GROUP': 'ORACLE.png',
                     'QUEUE': 'QUEUE.png',
                     'QUEUE_GROUP': 'QUEUE.png',
+                    'RABBITMQ': 'RABBITMQ.png',
                     'STAND_ALONE': 'STAND_ALONE.png',
                     'STAND_ALONE_GROUP': 'STAND_ALONE.png',
                     'SPRING_BOOT': 'SPRING_BOOT.png',
